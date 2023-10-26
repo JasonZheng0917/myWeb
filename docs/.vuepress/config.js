@@ -2,6 +2,7 @@ import { defaultTheme } from '@vuepress/theme-default'
 
 export default {
     title: 'Jason Zheng',
+    base: '/',
     themeColor: true,
     theme: defaultTheme({
         logo: '/bughello.gif',
