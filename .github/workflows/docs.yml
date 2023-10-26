@@ -10,8 +10,10 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2
+        with:
+          lfs: true
+          token: ${{ secrets.ACCESS_TOKEN }}
       - uses: actions/setup-node@v3
-      - uses: actions/checkout@a81bbbf8298c0fa03ea29cdc473d45769f953675
         with:
           node-version: 16
           cache: npm
