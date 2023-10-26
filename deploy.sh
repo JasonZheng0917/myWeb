@@ -9,6 +9,7 @@ git add -A
 git commit -m 'deploy'
 
 # 如果釋出到 https://<USERNAME>.github.io/<REPO>
+git push --set-upstream https://github.com/JasonZheng0917/myWeb.git main
 git push -f https://github.com/JasonZheng0917/myWeb.git
 
 cd -
