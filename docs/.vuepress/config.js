@@ -18,11 +18,10 @@ export default {
                 activeMatch: '^/handbook'
             },
             {
-                text: 'Projects',
+                text: 'MyProjects',
                 children: [{text: 'Demo',link: 'https://github.com/JasonZheng0917'}],
             },
             { text: 'Github', link: 'https://github.com/JasonZheng0917' }
         ]
-    }),
-    prev: true
+    })
 }
