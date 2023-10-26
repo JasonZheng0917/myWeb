@@ -15,7 +15,7 @@ features:
   - title: 技術
     details: Vue2, Vue3, jQuery, pinia, nuxt3
   - title: 工具
-    details: GitHub, GitLab, VS code, Trello, Figma
+    details: GitHub, GitLab, ,GitHub Action, VS code, Trello, Figma
 footerHtml: true
 footer: MIT Licensed | Copyright © 2018-present <a href="https://github.com/JasonZheng0917">Jason Zheng</a>
 ---

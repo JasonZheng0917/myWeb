@@ -17,10 +17,10 @@ export default {
                 link: '/handbook/about.md',
                 activeMatch: '^/handbook'
             },
-            {
-                text: 'MyProjects',
-                children: [{text: 'Demo',link: 'https://github.com/JasonZheng0917'}],
-            },
+            // {
+            //     text: 'MyProjects',
+            //     children: [{text: 'Demo',link: 'https://github.com/JasonZheng0917'}],
+            // },
             { text: 'Github', link: 'https://github.com/JasonZheng0917' }
         ]
     })
