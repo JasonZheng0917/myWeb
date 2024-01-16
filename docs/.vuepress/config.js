@@ -3,6 +3,11 @@ import { defaultTheme } from '@vuepress/theme-default'
 export default {
     title: 'Jason Zheng',
     base: '/myWeb',
+    head: [
+        [
+            'link', {rel: 'icon',href:'/letter-j.png'}
+        ]
+    ],
     themeColor: true,
     theme: defaultTheme({
         logo: '/bughello.gif',
