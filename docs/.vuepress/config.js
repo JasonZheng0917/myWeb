@@ -2,7 +2,7 @@ import { defaultTheme } from '@vuepress/theme-default'
 
 export default {
     title: 'Jason Zheng',
-    base: '/myWeb',
+    base: '/',
     head: [
         [
             'link', {rel: 'icon',href: '/bookmarkIcon/letter-j.png'}
