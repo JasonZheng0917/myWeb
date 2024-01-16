@@ -1,6 +1,6 @@
 ---
 home: true
-title: home
+title: My Web
 heroImage: /helloLight.gif
 heroImageDark: /helloDark.gif
 heroText: 我是鄭又誠，Jason Zheng
