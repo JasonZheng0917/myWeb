@@ -5,7 +5,7 @@ export default {
     base: '/myWeb',
     head: [
         [
-            'link', {rel: 'icon',href:'/letter-j.png'}
+            'link', {rel: 'icon',href: '/bookmarkIcon/letter-j.png'}
         ]
     ],
     themeColor: true,
