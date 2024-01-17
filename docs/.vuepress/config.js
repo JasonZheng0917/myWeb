@@ -24,7 +24,8 @@ export default {
             },
             {
                 text: 'MyPractices',
-                children: [{text: 'Demo',link: 'https://jasonzheng0917.github.io/FMChallenges/'}],
+                link: 'https://jasonzheng0917.github.io/FMChallenges/'
+                // children: [{text: 'Demo',link: 'https://jasonzheng0917.github.io/FMChallenges/'}],
             },
             { text: 'Github', link: 'https://github.com/JasonZheng0917' }
         ]
