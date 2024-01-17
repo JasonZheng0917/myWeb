@@ -22,10 +22,10 @@ export default {
                 link: '/handbook/about.md',
                 activeMatch: '^/handbook'
             },
-            // {
-            //     text: 'MyProjects',
-            //     children: [{text: 'Demo',link: 'https://github.com/JasonZheng0917'}],
-            // },
+            {
+                text: 'MyPractices',
+                children: [{text: 'Demo',link: 'https://jasonzheng0917.github.io/FMChallenges/'}],
+            },
             { text: 'Github', link: 'https://github.com/JasonZheng0917' }
         ]
     })
