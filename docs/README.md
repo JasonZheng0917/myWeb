@@ -11,11 +11,11 @@ actions:
     type: secondary
 features:
   - title: 程式語言
-    details: Javascript, Html, CSS, SQL
+    details: JavaScript,TypeScript, Html, CSS, Java, SQL, JSP
   - title: 技術
-    details: Vue2, Vue3, nuxt, vite, pinia, unoCSS, TailwindCss, nativeUI
+    details: Vue2, Vue3, nuxt, vite, pinia, unoCSS, TailwindCss, nativeUI, Spring Boot, PL/SQL
   - title: 工具
-    details: GitHub, GitLab, ,Git Extensions, VS code, Trello, Figma
+    details: GitHub, GitLab, ,Git Extensions, VS code, IntelliJ, Eclipse, SourceTree, Trello, Figma
 footerHtml: true
 footer: MIT Licensed | Copyright © 2018-present <a href="https://github.com/JasonZheng0917">Jason Zheng</a>
 ---
